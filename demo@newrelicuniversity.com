@@ -1,1 +1,1 @@
-o11y-as-code
+careful-squirrel
