@@ -1,1 +1,1 @@
-strong-desktop
+regular-bed
