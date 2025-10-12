@@ -1,1 +1,1 @@
-periodic-party
+potential-telegram
