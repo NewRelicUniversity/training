@@ -1,1 +1,1 @@
-guacamole-upgrade
+jubilant-fiesta
